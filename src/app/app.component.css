@@ -1,0 +1,41 @@
+#header-text {
+  font-family: sans-serif;
+  color: #fff;
+}
+
+#links {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#header2-text{
+  text-align: center;
+  color: #fff;
+}
+
+
+#searchbar{
+  margin-top: 75px;
+}
+
+
+.container {
+  border-style: groove;
+  border-width: 2px;
+  border-color: #66b3ff;
+}
+#startIcon {
+  color: #00695c;
+  font-size: 2.5em;
+  margin-top: 50px;
+}
+
+#feed {
+  margin-top: 50px;
+  text-align: center;
+  color: #00695c;
+}
+
+#post {
+  color: #fff;
+}
